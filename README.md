@@ -20,3 +20,5 @@
     <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
+### Apaixonado por tecnologia, estudo Telecomunicações/Redes e Programação. Gosto de aprender, obter conhecimento a cada dia que passa, no ramo de tecnologia 💕🤟🏼
+
