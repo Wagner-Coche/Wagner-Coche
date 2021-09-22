@@ -18,7 +18,7 @@
     <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div>
+</div></br>
 
 Apaixonado por tecnologia, estudo Telecomunicações/Redes e Programação. Gosto de aprender, obter conhecimento a cada dia que passa no ramo de tecnologia 💕🤟🏼
 
